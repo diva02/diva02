@@ -14,9 +14,7 @@
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working at...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Atmega Software Technologies
-
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> Animations and modules in React.js
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Flutter
